@@ -1,0 +1,16 @@
+E:\Learn\moneypulate\Keuangan\bin\Debug\net5.0\Keuangan.exe
+E:\Learn\moneypulate\Keuangan\bin\Debug\net5.0\Keuangan.deps.json
+E:\Learn\moneypulate\Keuangan\bin\Debug\net5.0\Keuangan.runtimeconfig.json
+E:\Learn\moneypulate\Keuangan\bin\Debug\net5.0\Keuangan.runtimeconfig.dev.json
+E:\Learn\moneypulate\Keuangan\bin\Debug\net5.0\Keuangan.dll
+E:\Learn\moneypulate\Keuangan\bin\Debug\net5.0\ref\Keuangan.dll
+E:\Learn\moneypulate\Keuangan\bin\Debug\net5.0\Keuangan.pdb
+E:\Learn\moneypulate\Keuangan\obj\Debug\net5.0\Keuangan.csprojAssemblyReference.cache
+E:\Learn\moneypulate\Keuangan\obj\Debug\net5.0\Keuangan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\moneypulate\Keuangan\obj\Debug\net5.0\Keuangan.AssemblyInfoInputs.cache
+E:\Learn\moneypulate\Keuangan\obj\Debug\net5.0\Keuangan.AssemblyInfo.cs
+E:\Learn\moneypulate\Keuangan\obj\Debug\net5.0\Keuangan.csproj.CoreCompileInputs.cache
+E:\Learn\moneypulate\Keuangan\obj\Debug\net5.0\Keuangan.dll
+E:\Learn\moneypulate\Keuangan\obj\Debug\net5.0\ref\Keuangan.dll
+E:\Learn\moneypulate\Keuangan\obj\Debug\net5.0\Keuangan.pdb
+E:\Learn\moneypulate\Keuangan\obj\Debug\net5.0\Keuangan.genruntimeconfig.cache
